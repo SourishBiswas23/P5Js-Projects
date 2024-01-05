@@ -1,0 +1,36 @@
+[submodule "bouncingBalls"]
+	path = bouncingBalls
+	url = ./bouncingBalls
+[submodule "noiseGrid"]
+	path = noiseGrid
+	url = ./noiseGrid
+[submodule "noisyCircles"]
+	path = noisyCircles
+	url = ./noisyCircles
+[submodule "oscillatingStructure"]
+	path = oscillatingStructure
+	url = ./oscillatingStructure
+[submodule "particleSystem"]
+	path = particleSystem
+	url = ./particleSystem
+[submodule "rain"]
+	path = rain
+	url = ./rain
+[submodule "recursiveFractalTree"]
+	path = recursiveFractalTree
+	url = ./recursiveFractalTree
+[submodule "snakeGame"]
+	path = snakeGame
+	url = ./snakeGame
+[submodule "spiral"]
+	path = spiral
+	url = ./spiral
+[submodule "starField"]
+	path = starField
+	url = ./starField
+[submodule "waterRipple"]
+	path = waterRipple
+	url = ./waterRipple
+[submodule "waveClock"]
+	path = waveClock
+	url = ./waveClock
